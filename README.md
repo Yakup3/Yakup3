@@ -52,15 +52,14 @@
 
 ## 📊 My Github Stats
 
-    <br/>
+  <br/>
     <p align="center">
     <a href="https://github.com/Yakup3/github-readme-stats"><img alt="Yakup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yakup3&show_icons=true&count_private=true&locale=en" /></a>
     <a href="https://github.com/Yakup3/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yakup's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yakup3"/>
     </a>
-  <a href="https://github.com/Yakup3/github-readme-stats"><img alt="Yakup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakup3&langs_count=8&count_private=true&layout=compact" /></a>
-  <br/>
-    
+    <a href="https://github.com/Yakup3/github-readme-stats"><img alt="Yakup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakup3&langs_count=8&count_private=true&layout=compact" /></a>
+  <br/>    
 <!--   <br/>
     <p align="center">
     <a href="https://github.com/Yakup3/github-readme-stats"><img alt="Yakup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yakup3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
