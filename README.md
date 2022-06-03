@@ -2,7 +2,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20Profile👨‍💻&width=1800&height=400 )](https://github.com/Akshay090/svg-banners)
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yakup</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yakup</h1>
 <h3 align="center">I'm a third year student at TED University.</h3>
 
 
