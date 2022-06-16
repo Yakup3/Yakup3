@@ -34,7 +34,8 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img title="React Native" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+    <a href="[https://reactjs.org/](https://nextjs.org/)" target="_blank"> <img title="Next js" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs" width="45" height="45"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img title="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img title="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
