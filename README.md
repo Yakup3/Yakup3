@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently working on [Pintask](https://www.pintask.app/).
+- 🔭 I am currently working on [Pintask](https://www.pintask.app/) [Kirapratik](https://demo.kirapratik.com.tr/).
 
 - 🌱 I’m currently learning **MERN stack**, **React Native**.
 
