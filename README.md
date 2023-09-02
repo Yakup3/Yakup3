@@ -23,6 +23,7 @@
 <a href="https://instagram.com/yakup.malikov" target="blank"><img align="center" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakup.malikov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yakupmalikov7" target="blank"><img align="center" title="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yakupmalikov7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20860690/yakup-malikov" target="blank"><img align="center" title="Stack Overflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="yakup-malikov" height="30" width="40" /></a>
+<a href="https://gitlab.com/Yakup9" target="blank"><img align="center" title="GitLab" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="yakup-malikov" height="30" width="40" /></a>
 
 </p>
 
