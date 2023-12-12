@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently working on [Çetele](https://www.kirapratik.com.tr/cetele/).
+- 🔭 I am currently working on [Çetele](https://www.kirapratik.com.tr/cetele/), [KiraPratik](https://www.kirapratik.com.tr/) and [AidatPratik](https://www.aidatpratik.com.tr/).
 
 - 🌱 I’m currently learning **MERN stack**, **React Native**.
 
