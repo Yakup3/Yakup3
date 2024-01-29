@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yakup</h1>
-<h3 align="center">I'm senior year student at TED University.</h3>
+<!-- <h3 align="center">I'm senior year student at TED University.</h3> -->
 
 
 ## 🙋‍♂️ About Me
@@ -22,6 +22,8 @@
 <a href="https://www.linkedin.com/in/yakupguly-malikov/" target="blank"><img align="center" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakupguly-malikov" height="30" width="40" /></a>
 <a href="https://instagram.com/yakup.malikov" target="blank"><img align="center" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakup.malikov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yakupmalikov7" target="blank"><img align="center" title="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yakupmalikov7" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Yakup7" target="blank"><img align="center" title="Codewars" src="https://img.icons8.com/color/48/codewars.png" alt="yakup-malikov" height="40" width="40" /></a>
+<a href="https://leetcode.com/Yakup7/" target="blank"><img align="center" title="LeetCode" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="yakup-malikov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20860690/yakup-malikov" target="blank"><img align="center" title="Stack Overflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="yakup-malikov" height="30" width="40" /></a>
 <a href="https://gitlab.com/Yakup9" target="blank"><img align="center" title="GitLab" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="yakup-malikov" height="30" width="40" /></a>
 
@@ -31,7 +33,8 @@
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img title="TypeScript" src="https://img.icons8.com/color/48/typescript.png"/></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img title="Python" src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
